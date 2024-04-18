@@ -1,0 +1,40 @@
+header{
+    background-color: #0c9ddd;
+    margin: -10px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+.logo{
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+
+}
+nav,ul,li{
+    display: inline-block;
+}
+
+a{
+    margin: 80px;
+    text-align: center;
+    color: white;
+
+}
+#menu-centre{
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+}
+footer{
+    background-color:#0c9ddd ;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    margin: -10px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}

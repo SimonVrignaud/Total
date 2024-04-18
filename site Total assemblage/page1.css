@@ -1,0 +1,95 @@
+header{
+    background-color: #0c9ddd;
+    margin: -10px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+.logo{
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    
+}
+nav,ul,li{
+    display: inline-block;
+}
+
+.a-navbar{
+    margin: 80px;
+    text-align: center;
+    color: white;
+    
+}
+#menu-centre{
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+}
+footer{
+    background-color:#0c9ddd ;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    margin: -10px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;    
+}
+
+
+.img-accueil{
+    margin-top: 150px;
+    width: 600px;
+    display: inline-block;
+}
+.text-accueil{
+    text-align: justify;
+    display: inline-block;
+    width: 600px;
+    margin-left: 10px;
+    top: -50px;
+}
+.btn-page-suivante{
+    position: relative;
+    top: 20px;
+    right: 500px;
+    border: solid;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:#0c9ddd ;
+    color: white;
+    cursor: pointer;
+}
+
+.boite-accueil{
+    display: inline-block;
+    margin: 50px;
+    width: 300px;
+    height: 400px;
+    border: solid;
+}
+.rectangle-accueil{
+    width: 300px;
+    height: 100px;
+    background-color: #0c9ddd;
+}
+.btn-savoir-plus{
+    height: 40px;
+    border-radius: 20px;
+    background-color: #0c9ddd;
+    color: white;
+    border: none;
+}
+.text-boite{
+
+    bottom: 100px;
+    left: 4px;
+}
+#grande-boite{
+    display: flex;
+    justify-content: center;
+    margin-bottom:100px ;
+}
